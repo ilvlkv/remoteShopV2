@@ -1,0 +1,462 @@
+main .container1 {
+  max-width: 100%;
+  margin: 0;
+  background-color: #f7f8fa;
+}
+
+main .container1 .container-top-menu {
+  max-width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+
+main .container1 .container-top-menu .menu-button {
+  background-color: #7ac751;
+  width: 260px;
+  height: 67px;
+  font-family: "Rubik";
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .container1 .container-top-menu .menu-button p {
+  margin-left: 20px;
+}
+
+main .container1 .container-top-menu nav {
+  width: 506px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 82px;
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
+main .container1 .container-top-menu nav a {
+  text-decoration: none;
+  color: #555555;
+}
+
+main .container1 .container-top-menu nav a:hover {
+  color: #7ac751;
+}
+
+main .container2 {
+  max-width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+
+main .container2 .menu {
+  width: 260px;
+  height: 454px;
+  display: grid;
+  background-color: #f7f8fa;
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
+main .container2 .menu a {
+  text-decoration: none;
+  border-bottom: 1px solid #e3e3e3;
+  color: #555555;
+  padding-left: 30px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+main .container2 .menu a:hover {
+  color: #7ac751;
+}
+
+main .container2 .menu .menu-last-a {
+  border: none;
+}
+
+main .container2 .banner {
+  width: 899px;
+  height: 439px;
+  margin-top: 11px;
+  margin-left: 11px;
+  background-color: #f1faff;
+}
+
+main .container2 .banner .banner-elements {
+  display: flex;
+  margin-top: 30px;
+}
+
+main .container2 .banner .banner-elements .banner-text {
+  display: block;
+  width: 340px;
+  height: 374px;
+  margin-left: 48px;
+  padding-top: 17px;
+}
+
+main .container2 .banner .banner-elements .banner-text h2 {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  color: #7ac751;
+  margin-bottom: 5px;
+}
+
+main .container2 .banner .banner-elements .banner-text img {
+  margin-bottom: 25px;
+}
+
+main .container2 .banner .banner-elements .banner-text p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 27px;
+  color: #515151b1;
+  margin-bottom: 30px;
+}
+
+main .container2 .banner .banner-elements .banner-text button {
+  font-family: "Mulish";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  color: #ffff;
+  background-color: #7ac751;
+  border: none;
+  border-radius: 4px;
+  width: 129px;
+  height: 40px;
+  cursor: pointer;
+}
+
+main .container2 .banner .banner-elements .banner-menu {
+  height: 376px;
+  width: 95px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+main .container2 .banner .banner-elements .banner-menu .box {
+  width: 95px;
+  height: 95px;
+  background-color: #f9fdff;
+  border: 2px solid white;
+  border-radius: 10px;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  margin-bottom: 30px;
+}
+
+main .container2 .banner .banner-elements .banner-menu .box .price {
+  display: flex;
+  align-items: baseline;
+  margin-top: 3px;
+}
+
+main .container2 .banner .banner-elements .banner-menu .box .price p {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 7px;
+  color: #7ac751;
+}
+main .container2 .banner .banner-elements .banner-menu .box .price h2 {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 11px;
+  color: #7ac751;
+}
+
+main .container2 .banner .banner-elements .banner-menu .box p {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 7px;
+  color: #555555;
+}
+
+main .container2 .banner .banner-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: -15px;
+}
+
+main .container2 .banner .banner-pagination a img {
+  margin-left: 15px;
+}
+
+main .container3 {
+  max-width: 80%;
+  margin: 65px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main .container3 .feature {
+  width: 230px;
+  height: 68px;
+  display: flex;
+}
+
+main .container3 .feature .feature-text {
+  margin-left: 15px;
+  width: 138px;
+  padding-top: 12px;
+}
+
+main .container3 .feature h2 {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  color: #555555;
+}
+
+main .container3 .feature p {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #515151af;
+  padding-top: 3px;
+}
+
+main .container4 {
+  max-width: 80%;
+  margin: 65px auto 120px auto;
+  display: flex;
+}
+
+main .container4 .offer-left {
+  background: url(/images/main/offer_backgound1.png) no-repeat;
+  background-size: cover;
+  width: 669px;
+  height: 511px;
+}
+
+main .container4 .offer-left .offer-text1 {
+  width: 301px;
+  height: 101px;
+  margin-top: 50px;
+  margin-left: 35px;
+}
+
+main .container4 .offer-left .offer-text1 h2 {
+  font-family: "Mulish";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 22px;
+  color: #555555;
+}
+
+main .container4 .offer-left .offer-text1 .offer-text-price {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+main .container4 .offer-left .offer-text1 .offer-text-price p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+  color: #7ac751;
+}
+
+main .container4 .offer-left .offer-text1 .offer-text-price b {
+  font-family: "Mulish";
+  font-weight: 800;
+  font-style: normal;
+  font-size: 20px;
+  color: #7ac751;
+}
+
+main .container4 .offer-left .offer-text1 a {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #757575;
+  text-decoration: none;
+}
+
+main .container4 .offer-right .offer-right1 {
+  width: 485px;
+  height: 247px;
+  background: url(/images/main/offer_backgound2.png) no-repeat;
+  background-size: cover;
+  margin-bottom: 17px;
+  margin-left: 15px;
+}
+
+main .container4 .offer-right .offer-right2 {
+  width: 485px;
+  height: 247px;
+  background: url(/images/main/offer_backgound3.png) no-repeat;
+  background-size: cover;
+  margin-left: 15px;
+}
+
+main .container4 .offer-right .offer-text1 {
+  width: 301px;
+  height: 101px;
+  padding-top: 50px;
+  padding-left: 35px;
+}
+
+main .container4 .offer-right .offer-text1 h2 {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: #555555;
+}
+
+main .container4 .offer-right .offer-text1 .offer-text-price {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+main .container4 .offer-right .offer-text-price p {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  color: #7ac751;
+}
+
+main .container4 .offer-right .offer-text1 a {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #757575;
+  text-decoration: none;
+}
+
+main .container5 {
+  max-width: 80%;
+  height: 1100px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+main .container5 h2 {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+  color: #555555;
+}
+
+main .container5 nav {
+  margin-top: 30px;
+}
+
+main .container5 nav a {
+  text-decoration: none;
+  margin: 0 35px;
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  color: #c2c2c2;
+}
+
+main .container5 nav a.active {
+  color: #7ac751;
+}
+
+main .container5 .items {
+  width: 1170px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+main .container5 .items .item {
+  width: 270px;
+  height: 387px;
+  margin-bottom: 45px;
+}
+
+main .container5 .items .item a {
+  text-decoration: none;
+}
+
+main .container5 .items .item p {
+  text-align: left;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #757575a3;
+  margin-top: 11px;
+  margin-bottom: 10px;
+}
+
+main .container5 .items .item h2 {
+  text-align: left;
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: #555555;
+}
+
+main .container5 .items .item .item-info {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-top: 12px;
+}
+
+main .container5 .items .item .item-info .item-price {
+  display: flex;
+}
+
+main .container5 .items .item .item-info .item-price p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: #7ac751;
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+main .container5 .items .item .item-info .item-price s {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  color: #cccccc;
+}
+
+main .container5 .items-pagination {
+  width: 1170px;
+}
+
+main .container5 .items-pagination a {
+  text-decoration: none;
+  padding: 0 5px;
+}
