@@ -460,3 +460,480 @@ main .container5 .items-pagination a {
   text-decoration: none;
   padding: 0 5px;
 }
+
+main .container6 {
+  max-width: 80%;
+  margin: 25px auto 0px auto;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+main .container6 h2 {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+  color: #555555;
+}
+
+main .container6 .small-banner-bar {
+  display: flex;
+  margin-top: 50px;
+}
+
+main .container6 .small-banner-bar .small-banner1 {
+  width: 570px;
+  height: 249px;
+  background: url(/images/main/banner1.png) no-repeat;
+  background-size: cover;
+  padding-top: 35px;
+  padding-left: 25px;
+  margin-right: 30px;
+}
+
+main .container6 .small-banner-bar .small-banner1 .small-banner-text {
+  width: 227px;
+  height: 76px;
+  word-wrap: break-word;
+  text-align: left;
+}
+
+main .container6 .small-banner-bar .small-banner1 .small-banner-text h2 {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: #555555;
+  padding-bottom: 10px;
+}
+
+main .container6 .small-banner-bar .small-banner1 .small-banner-text p {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+
+main .container6 .small-banner-bar .small-banner1 .small-banner-price {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-price
+  .item-price {
+  display: flex;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-price
+  .item-price
+  p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: #7ac751;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-price
+  .item-price
+  s {
+  margin-left: 10px;
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  color: #cccccc;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-price
+  .item-price
+  button {
+  font-family: "Mulish";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 12px;
+  color: #ffff;
+  background-color: #7ac751;
+  border: none;
+  border-radius: 4px;
+  width: 91px;
+  height: 26px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+main .container6 .small-banner-bar .small-banner1 .small-banner-timer {
+  display: flex;
+  justify-content: space-between;
+  width: 207px;
+  margin-top: 25px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-timer
+  .small-banner-timer-element {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background-color: #7ac751;
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-timer
+  .small-banner-timer-element
+  h2 {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 5px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner1
+  .small-banner-timer
+  .small-banner-timer-element
+  p {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 6px;
+  color: #fff;
+}
+
+main .container6 .small-banner-bar .small-banner2 {
+  width: 570px;
+  height: 249px;
+  background: url(/images/main/banner2.png) no-repeat;
+  background-size: cover;
+  padding-top: 35px;
+  padding-left: 25px;
+}
+
+main .container6 .small-banner-bar .small-banner2 .small-banner-text {
+  width: 227px;
+  height: 76px;
+  word-wrap: break-word;
+  text-align: left;
+}
+
+main .container6 .small-banner-bar .small-banner2 .small-banner-text h2 {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: #555555;
+  padding-bottom: 10px;
+}
+
+main .container6 .small-banner-bar .small-banner2 .small-banner-text p {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+
+main .container6 .small-banner-bar .small-banner2 .small-banner-price {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-price
+  .item-price {
+  display: flex;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-price
+  .item-price
+  p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: #7ac751;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-price
+  .item-price
+  s {
+  margin-left: 10px;
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  color: #cccccc;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-price
+  .item-price
+  button {
+  font-family: "Mulish";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 12px;
+  color: #ffff;
+  background-color: #7ac751;
+  border: none;
+  border-radius: 4px;
+  width: 91px;
+  height: 26px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+main .container6 .small-banner-bar .small-banner2 .small-banner-timer {
+  display: flex;
+  justify-content: space-between;
+  width: 207px;
+  margin-top: 25px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-timer
+  .small-banner-timer-element {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background-color: #7ac751;
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-timer
+  .small-banner-timer-element
+  h2 {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 5px;
+}
+
+main
+  .container6
+  .small-banner-bar
+  .small-banner2
+  .small-banner-timer
+  .small-banner-timer-element
+  p {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 6px;
+  color: #fff;
+}
+
+main .container7 {
+  max-width: 80%;
+  height: 1100px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+main .container7 h2 {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+  color: #555555;
+}
+
+main .container7 nav {
+  margin-top: 30px;
+}
+
+main .container7 nav a {
+  text-decoration: none;
+  margin: 0 35px;
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  color: #c2c2c2;
+}
+
+main .container7 nav a.active {
+  color: #7ac751;
+}
+
+main .container7 .items {
+  width: 1170px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+main .container7 .items .item {
+  width: 270px;
+  height: 387px;
+  margin-bottom: 45px;
+}
+
+main .container7 .items .item a {
+  text-decoration: none;
+}
+
+main .container7 .items .item p {
+  text-align: left;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #757575a3;
+  margin-top: 11px;
+  margin-bottom: 10px;
+}
+
+main .container7 .items .item h2 {
+  text-align: left;
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: #555555;
+}
+
+main .container7 .items .item .item-info {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-top: 12px;
+}
+
+main .container7 .items .item .item-info .item-price {
+  display: flex;
+}
+
+main .container7 .items .item .item-info .item-price p {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: #7ac751;
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+main .container7 .items .item .item-info .item-price s {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  color: #cccccc;
+}
+
+main .container7 .items-navigation {
+  display: flex;
+  width: 570px;
+  margin-left: 600px;
+  justify-content: space-between;
+}
+
+main .container7 .items-navigation .page-button {
+  width: 161px;
+  height: 44px;
+  background-color: #7ac751;
+  padding-top: 10px;
+  border-radius: 3px;
+}
+
+main .container7 .items-navigation .page-button button {
+  border: none;
+  background: none;
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  color: #fff;
+}
+
+main .container7 .items-navigation .page-button img {
+  margin-left: 5px;
+}
+
+main .container7 .items-navigation .page-navigation {
+  display: flex;
+  align-items: center;
+}
+
+main .container7 .items-navigation .page-navigation p {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: #757575;
+  margin-right: 10px;
+}
+
+main .container7 .items-navigation .page-navigation input[type="text"] {
+  width: 58px;
+  height: 29px;
+  background-color: #f8fafb;
+  border: 1px solid #cccccc;
+  margin-right: 18px;
+}
+
+main .container7 .items-navigation .page-navigation img {
+  margin-left: 10px;
+}
