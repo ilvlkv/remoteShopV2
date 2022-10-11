@@ -937,3 +937,189 @@ main .container7 .items-navigation .page-navigation input[type="text"] {
 main .container7 .items-navigation .page-navigation img {
   margin-left: 10px;
 }
+
+main .container8 {
+  max-width: 80%;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 70px;
+}
+
+main .container8 h2 {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+  color: #555555;
+  margin-bottom: 90px;
+}
+
+main .container8 .rewiew-box .rewiew {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+main .container8 .rewiew-box .rewiew .rewiew-text {
+  width: 816px;
+  height: 312px;
+  background-color: #f8fafb;
+}
+
+main .container8 .rewiew-box .rewiew-text img {
+  margin-top: -45px;
+  margin-bottom: 25px;
+}
+
+main .container8 .rewiew-box .rewiew-text p {
+  width: 566px;
+  word-wrap: break-word;
+  margin: 0 auto 0 auto;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #515151;
+}
+
+main .container8 .rewiew-box .rewiew-text h2 {
+  font-family: "Mulish";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 25px;
+  color: #555555;
+  margin-top: 25px;
+  margin-bottom: 3px;
+}
+
+main .container8 .rewiew-box .rewiew-text b {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #515151;
+}
+
+main .container9 {
+  max-width: 80%;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 110px;
+}
+
+main .container9 h2 {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+  color: #555555;
+  margin-bottom: 70px;
+}
+
+main .container9 .articles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+main .container9 .article-box1 {
+  width: 565px;
+  height: 455px;
+  background: url(/images/main/article_background1.png) no-repeat;
+  background-size: cover;
+  padding-top: 265px;
+  padding-left: 45px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+main .container9 .tag-date {
+  display: flex;
+  align-items: center;
+}
+
+main .container9 .tag-date p {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #ffff;
+  margin-left: 5px;
+}
+
+main .container9 .tag-date .tag {
+  width: 100px;
+  height: 25px;
+  background-color: #f8fafb;
+  border-radius: 3px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+main .container9 .tag-date .tag p {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 12px;
+  color: #7ac751;
+  margin-left: 3px;
+}
+
+main .container9 .article-text {
+  font-family: "Mulish";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 39px;
+  color: #ffffff;
+  text-align: left;
+  word-wrap: break-word;
+  width: 395px;
+}
+
+main .container9 .article-text a {
+  text-decoration: none;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #ffffff;
+  margin-top: 25px;
+}
+
+main .container9 .article-box2 {
+  width: 565px;
+  height: 455px;
+  background: url(/images/main/article_background2.png) no-repeat;
+  background-size: cover;
+  padding-top: 265px;
+  padding-left: 45px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+main .container9 .article-box3 {
+  width: 565px;
+  height: 455px;
+  background: url(/images/main/article_background3.png) no-repeat;
+  background-size: cover;
+  padding-top: 265px;
+  padding-left: 45px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+main .container9 .article-box4 {
+  width: 565px;
+  height: 455px;
+  background: url(/images/main/article_background4.png) no-repeat;
+  background-size: cover;
+  padding-top: 265px;
+  padding-left: 45px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
