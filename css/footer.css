@@ -1,0 +1,74 @@
+footer {
+  margin-top: 85px;
+}
+
+footer .container-fluid .container {
+  max-width: 80%;
+}
+
+footer .container-fluid .container .footer-top {
+  display: flex;
+  justify-content: space-between;
+  height: 195px;
+}
+
+footer .container-fluid .container .footer-top .footer-container1 {
+  width: 310px;
+}
+
+footer .container-fluid .container .footer-top .footer-container1 p {
+  word-wrap: break-word;
+  margin: 15px 0 15px 0;
+  line-height: 27px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #555555;
+  width: 310px;
+}
+
+footer .container-fluid .container .footer-top .footer-container1 .links a {
+  text-decoration: none;
+}
+
+footer .container-fluid .container .footer-top .footer-container2 {
+  width: 310px;
+  display: grid;
+  padding-left: 115px;
+}
+
+footer .container-fluid .container .footer-top .footer-container2 a {
+  text-decoration: none;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #555555;
+}
+
+footer .container-fluid .container .footer-top .footer-container2 a.active {
+  font-weight: 500;
+}
+
+footer .container-fluid .container .footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  height: 85px;
+  align-items: center;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #555555;
+}
+
+footer .container-fluid .container .footer-bottom .footer-bottom-links a {
+  text-decoration: none;
+  color: #555555;
+  margin-left: 50px;
+}
+
+footer .container-fluid .container .footer-bottom .footer-bottom-links {
+  margin-right: 21px;
+}
